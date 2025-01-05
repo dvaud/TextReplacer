@@ -1,0 +1,7 @@
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe.config
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\bin\Debug\TextReplacer.pdb
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.csproj.AssemblyReference.cache
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.exe
+C:\Users\Dávid\Desktop\C#\TextReplacer\TextReplacer\obj\Debug\TextReplacer.pdb
