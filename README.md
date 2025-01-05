@@ -8,3 +8,5 @@ Also this is my first time posting to github, I hope I'm doing it right :)
 Bye
 
 Also quick tutorial: if you want to run the program go to bin/Debug and download the **TextReplacer.exe** file, if you want to see the code open **Program.cs**
+
+Created on 2025.01.03. for a personal project, uploaded on 2025.01.05. in case anyone wants something like this.
